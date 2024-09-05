@@ -30,3 +30,16 @@ export const cardObject = [
         price: "$19.99",
     }
 ]
+
+export const products = [
+    {
+        img: "/images/1001.png",
+        title: "Sony Wh-Ch510 Bluetooth Wireless",
+        price: "$59.99",
+    },
+    {
+        img: "/images/1002.png",
+        title: "boAt Rockerz 450",
+        price: "$29.99",
+    }
+]
